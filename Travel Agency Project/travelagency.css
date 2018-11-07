@@ -1,0 +1,24 @@
+/*
+* Leah Rizzo
+* September 10, 2018
+* CSS
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+Width: 80%;
+margin: auto;
+background-color: lightsteelblue;
+}
+#Chloetheslavegirl {width: 500px; height: 400px;}
+#RoominMyrtlesPlantationhouse {width: 500px; height: 400px;}
+#Diningroommyrtlesplantation {width: 500px; height: 400px;}
+#Famousmirror {width: 500px; height: 400px;}
+#Myrtlesplantationhouse  {width: 500px; height: 400px;}
